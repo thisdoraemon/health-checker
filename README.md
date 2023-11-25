@@ -73,4 +73,4 @@ The tool provides informative error messages if the website is unreachable or if
 
 ## License
 
-This tool is open-source and distributed under the MIT License.
+This tool is open-source and distributed under the [MIT License](https://github.com/thisdoraemon/health-checker/blob/main/LICENSE).
