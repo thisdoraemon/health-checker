@@ -46,7 +46,7 @@ import (
 ```
 ### Health Checking Logic (check.go)
 
-The Check function in healthcheck.go is responsible for establishing a TCP connection to the specified domain and port. It returns a status message indicating whether the website is up or down.
+The Check function in check.go is responsible for establishing a TCP connection to the specified domain and port. It returns a status message indicating whether the website is up or down.
 ```go
 package main
 
